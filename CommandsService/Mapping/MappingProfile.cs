@@ -15,6 +15,8 @@ namespace PlatformService.Mapping
             CreateMap<Platform, PlatformReadDto>();
             CreateMap<Command, CommandReadDto>();
             CreateMap<CommandCreateDto, Command>();
+            CreateMap<PlatformPublishDto, Platform>()
+                .ForMember(d => d.ExternalId, o => o.MapFrom(s => s.Id));
         }
     }
 }

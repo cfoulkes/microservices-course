@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using CommandsService.Data;
 using CommandsService.Data.Repositories;
+using CommandsService.EventProcessing;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -46,7 +47,7 @@ namespace CommandsService
 
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddScoped<ICommandRepository, CommandRepository>();
-
+            services.AddSingleton<IEventProcessor, EventProcessor>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
