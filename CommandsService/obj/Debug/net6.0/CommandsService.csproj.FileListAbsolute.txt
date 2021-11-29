@@ -57,3 +57,7 @@
 /Users/cfoulkes/Dev/microservices/CommandsService/obj/Debug/net6.0/CommandsService.genruntimeconfig.cache
 /Users/cfoulkes/Dev/microservices/CommandsService/bin/Debug/net6.0/appsettings.Production.json
 /Users/cfoulkes/Dev/microservices/CommandsService/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/cfoulkes/Dev/microservices/CommandsService/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/cfoulkes/Dev/microservices/CommandsService/bin/Debug/net6.0/Grpc.Core.Api.dll
+/Users/cfoulkes/Dev/microservices/CommandsService/bin/Debug/net6.0/Grpc.Net.Client.dll
+/Users/cfoulkes/Dev/microservices/CommandsService/bin/Debug/net6.0/Grpc.Net.Common.dll

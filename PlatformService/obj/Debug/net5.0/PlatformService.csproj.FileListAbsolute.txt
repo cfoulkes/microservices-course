@@ -74,3 +74,10 @@
 /Users/cfoulkes/Dev/microservices/PlatformService/bin/Debug/net5.0/PlatformService
 /Users/cfoulkes/Dev/microservices/PlatformService/bin/Debug/net5.0/RabbitMQ.Client.dll
 /Users/cfoulkes/Dev/microservices/PlatformService/obj/Debug/net5.0/PlatformService.csproj.CopyComplete
+/Users/cfoulkes/Dev/microservices/PlatformService/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/cfoulkes/Dev/microservices/PlatformService/bin/Debug/net5.0/Grpc.AspNetCore.Server.dll
+/Users/cfoulkes/Dev/microservices/PlatformService/bin/Debug/net5.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/Users/cfoulkes/Dev/microservices/PlatformService/bin/Debug/net5.0/Grpc.Core.Api.dll
+/Users/cfoulkes/Dev/microservices/PlatformService/bin/Debug/net5.0/Grpc.Net.Client.dll
+/Users/cfoulkes/Dev/microservices/PlatformService/bin/Debug/net5.0/Grpc.Net.ClientFactory.dll
+/Users/cfoulkes/Dev/microservices/PlatformService/bin/Debug/net5.0/Grpc.Net.Common.dll
